@@ -1,8 +1,10 @@
 <img width="1110" height="204" alt="Captura de pantalla 2025-10-01 104325" src="https://github.com/user-attachments/assets/8005ad00-c5cb-4961-acef-7d4d3c5172d3" />
 
-En esta captura podemos ver
+Muestra el encabezado de la tabla con las columnas principales del sistema, donde se listan los registros con sus identificadores y atributos básicos.
 
 <img width="1109" height="205" alt="Captura de pantalla 2025-10-01 104457" src="https://github.com/user-attachments/assets/1f5a1ed4-dcc4-4f82-80de-3b29dbea9edb" />
+
+Continuación del listado de registros; aquí se pueden observar valores de ejemplo poblados en las columnas de la tabla.
 
 <img width="1110" height="238" alt="Captura de pantalla 2025-10-01 113742" src="https://github.com/user-attachments/assets/ca35b602-1984-486f-95cf-0eee49381725" />
 
